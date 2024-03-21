@@ -33,3 +33,12 @@ ICEWS0515
 `python learn.py -d icews0515 -l 1 2 3 -n 2000 -p 20 -s 12`
 `python apply.py -d icews0515 -r XXXXXX.json -l 1 2 3 -w 500 -p 20`
 `python evaluate.py -d icews0515 -c yyyyyy.json`
+
+<h3> Experimental results on the ICEWS14 with varying seed numbers </h3>
+
+| Seed Number | hit@1    | hit@3    | hit@10   | MRR      |
+|-------------|----------|----------|----------|----------|
+| 1           | 0.526017 | 0.569430 | 0.638973 | 0.562631 |
+| 2           | 0.523068 | 0.568106 | 0.636893 | 0.560175 |
+| 3           | 0.531992 | 0.574497 | 0.641885 | 0.567365 |
+| 4           | 0.527341 | 0.570754 | 0.640561 | 0.564409 |
