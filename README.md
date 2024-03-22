@@ -35,6 +35,7 @@ ICEWS0515
 `python evaluate.py -d icews0515 -c yyyyyy.json`
 
 <h3> Experimental results on the ICEWS14 with varying seed numbers </h3>
+
 | Seed Number                   | hit@1    | hit@3    | hit@10   | MRR      |
 |-------------------------------|----------|----------|----------|----------|
 | 12 (The results in the paper) | 0.562006 | 0.569127 | 0.638784 | 0.562006 |
