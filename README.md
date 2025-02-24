@@ -2,7 +2,7 @@
 
 Hello :)
 
-This is the anonymous code repository for the paper **"Explainable Temporal Knowledge Graph Reasoning via Expressive Logic Rules."** Below, you will find detailed instructions on how to set up the environment, run the code, and reproduce our experimental results.
+This is the code repository for the paper **"Explainable Temporal Knowledge Graph Reasoning via Expressive Logic Rules."** Below, you will find detailed instructions on how to set up the environment, run the code, and reproduce our experimental results.
 
 ---
 
